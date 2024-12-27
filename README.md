@@ -23,4 +23,3 @@ Note: The motor file [MX-64R.SLDPRT](https://github.com/saayuj/Snake-Robot/blob/
   ![](https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_hardware.gif)
 
 Note: The hardware was assembled and controlled by all team members working on this project.
-
