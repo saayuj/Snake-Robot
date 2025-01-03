@@ -1,7 +1,7 @@
-## Introduction
+# Introduction
 This repository contains the work performed during the final year B.Tech. Project at the Indian Institute of Technology Bombay. I worked with Prof Abhishek Gupta, Dept. of Mechanical Engineering, IITB and Prof Debraj Chakraborty, Dept. of Electrical Engineering, IITB.
 
-## Guide
+# Guide
 - For a quick overview of the project, the presentation [BTP 2 Presentation.pdf](https://github.com/saayuj/Snake-Robot/blob/main/BTP%202%20Presentation.pdf) can be viewed. The GIFs inserted in the presentation can be viewed in the folder [images_GIFs](https://github.com/saayuj/Snake-Robot/tree/main/images_GIFs).
   
 - A guide to the various folders:
@@ -13,13 +13,21 @@ This repository contains the work performed during the final year B.Tech. Projec
 
 Note: The motor file [MX-64R.SLDPRT](https://github.com/saayuj/Snake-Robot/blob/main/snake_simulations/MX-64R.SLDPRT) has been obtained from the motor website and GrabCAD, and the connector [connector_Grooves.STL](https://github.com/saayuj/Snake-Robot/blob/main/snake_simulations/connector_Grooves.STL) was created by the other team members working on this project.
 
-## Results
-- #### Simulation
+# Results
+## Simulation
+- Planar case:
+
   ![](https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/Snake_variable_amplitude_no_bias.gif)
+- 3D case:
+
   ![](https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_caterpillar.gif)
 
-- #### Hardware
+## Hardware
+- Planar case:
+
   ![](https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/planar_hardware.gif)
+- 3D case:
+
   ![](https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_hardware.gif)
 
 Note: The hardware was assembled and controlled by all team members working on this project.
