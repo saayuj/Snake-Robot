@@ -3,7 +3,6 @@ This repository contains the work performed during the final year B.Tech. Projec
 
 # Guide
 - For a quick overview of the project, the presentation [BTP 2 Presentation.pdf](https://github.com/saayuj/Snake-Robot/blob/main/BTP%202%20Presentation.pdf) can be viewed. The GIFs inserted in the presentation can be viewed in the folder [images_GIFs](https://github.com/saayuj/Snake-Robot/tree/main/images_GIFs).
-
 - A guide to the various folders:
   1. The .dxf files used for deformation/deflection analysis of beams under applied forces can be found in [drawings](https://github.com/saayuj/Snake-Robot/tree/main/drawings).
   2. The Simulink and MATLAB files used for testing PID controllers and lag filters on a robot link can be found in [initial_task](https://github.com/saayuj/Snake-Robot/tree/main/initial_task).
