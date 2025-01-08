@@ -17,7 +17,7 @@ Note: The motor file [MX-64R.SLDPRT](https://github.com/saayuj/Snake-Robot/blob/
 ## Simulation
 - Planar case:
 
-  <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/Snake_variable_amplitude_no_bias.gif" width="600" height="400"> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/Snake_variable_amplitude_no_bias.gif" width="600" height="400"> 
 - 3D case:
 
   <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_caterpillar.gif" width="600" height="400"> 
