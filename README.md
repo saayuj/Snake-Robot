@@ -20,14 +20,14 @@ Note: The motor file [MX-64R.SLDPRT](https://github.com/saayuj/Snake-Robot/blob/
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/Snake_variable_amplitude_no_bias.gif" width="600" height="400"> 
 - 3D case:
 
-  <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_caterpillar.gif" width="600" height="400"> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_caterpillar.gif" width="600" height="400"> 
 
 ## Hardware
 - Planar case:
 
-  <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/planar_hardware.gif" width="600" height="400"> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/planar_hardware.gif" width="600" height="400"> 
 - 3D case:
 
-  <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_hardware.gif" width="600" height="400"> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/saayuj/Snake-Robot/blob/main/images_GIFs/3d_hardware.gif" width="600" height="400"> 
 
-Note: The hardware was assembled and controlled by all team members working on this project.
+Note: The hardware was assembled and controlled by all the team members working on this project.
